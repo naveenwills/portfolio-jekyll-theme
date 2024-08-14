@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-# Updating abount.md file
+# Updating about me
 
-This is a theme im applying and playing around with as part of my journey into professional certificate in data analysis course. 
+Name : Naveen William
+Location : London, UK
+Education : Graduate
+Industry : Railway
+Recent Projects : Identify potential land and space to generate income for our company
+Goals : Data Scientist
+Professional or Personal interest : Be the data authority in our department
